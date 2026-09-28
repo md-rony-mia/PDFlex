@@ -1,0 +1,6 @@
+{
+  "name": "PDFlex - Free In-Browser PDF Text Editor",
+  "description": "100% free client-side PDF text editor. Click and edit PDF text in place, manage pages, and export with zero watermarks. File never leaves your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
